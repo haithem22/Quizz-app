@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="ed_email">email</string>
+    <string name="password">password</string>
+    <string name="bt_signIn">sign in</string>
+    <string name="bt_signUp">sign up</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_disconnect">Logout</string>
+    <string name="action_sharet">share</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="fbid">687020644778349</string>
+</resources>
